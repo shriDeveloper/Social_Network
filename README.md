@@ -1,2 +1,2 @@
-# Social_Network
-Open Source Social Network
+# One Search
+Open Source Social Networking Site
